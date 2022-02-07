@@ -24,11 +24,8 @@ a{
   background-color: black;
 }
 
-#mainHeading{
-  color: red;
-}
-
-  h1{
+    #mainHeading{
+    color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 562%;
     text-align: center;
@@ -39,9 +36,6 @@ a{
 
   .funParagraph {
     color: green;
-  }
-
-  p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25px;
     text-align: center;
