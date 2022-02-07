@@ -24,17 +24,19 @@ a{
   background-color: black;
 }
 
+#mainHeading{
+  color: red;
+}
+
   h1{
-    color: red;
+    color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 562%;
     text-align: center;
     margin: 100px
   }
 
-  #mainHeading{
-    color: red;
-  }
+ 
 
   .funParagraph {
     color: green;
