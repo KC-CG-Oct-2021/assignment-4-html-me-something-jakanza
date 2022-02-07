@@ -25,11 +25,19 @@ a{
 }
 
   h1{
-    color: black;
+    color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 562%;
     text-align: center;
     margin: 100px
+  }
+
+  #mainHeading{
+    color: red;
+  }
+
+  .funParagraph {
+    color: green;
   }
 
   p{
